@@ -1,0 +1,34 @@
+---
+title: "Exploratory Seismic Analysis"
+author: "Alex Fleming"
+date: "2/14/2018"
+output: html_document
+---
+## Title 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(data.table)
+library(Rquake)
+```
+## Introduction
+
+## Source Data
+
+## Exploration Steps
+This is an R Markdown document. 
+
+```{r code}
+
+```
+
+## Linking map data and seismic results
+
+
+You can also embed plots, for example:
+
+```{r plot, echo=FALSE}
+plot(pressure)
+```
+
+Contact: alex.c.fleming@gmail.com
